@@ -1,9 +1,8 @@
-package com.tyrant.hj008;
+package com.tyrant.newcoder.hj008;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 

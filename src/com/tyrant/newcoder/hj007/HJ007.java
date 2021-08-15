@@ -1,4 +1,4 @@
-package com.tyrant.hj007;
+package com.tyrant.newcoder.hj007;
 
 import java.io.BufferedReader;
 import java.io.IOException;

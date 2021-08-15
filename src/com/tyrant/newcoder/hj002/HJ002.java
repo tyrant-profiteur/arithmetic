@@ -1,4 +1,4 @@
-package com.tyrant.hj002;
+package com.tyrant.newcoder.hj002;
 
 import java.util.Scanner;
 
